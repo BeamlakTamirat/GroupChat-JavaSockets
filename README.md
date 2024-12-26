@@ -1,7 +1,4 @@
 # Getting Started
-
-Step into the world of Java programming with Visual Studio Code! This quick guide will help you begin your journey to coding in Java with VS Code.
-
 ---
 
 ## 📂 Project Layout
